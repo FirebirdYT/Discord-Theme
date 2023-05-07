@@ -19,11 +19,6 @@ a>.assetsLargeImageUserPopout-pY2WJv[src^="https://i.scdn.co/image/"]{
     height:50px;
     transition: all 300ms;
     }
-    a>.assetsLargeImageUserPopout-pY2WJv[src^="https://i.scdn.co/image/"]:hover {
-    width:100px;
-    height:100px;
-    transition: all 300ms;
-    }
 
 a>.assetsLargeImageUserPopout-pY2WJv[src^="https://i.scdn.co/image/"]:hover .tooltip-14MtrL{
         display: none !important;
